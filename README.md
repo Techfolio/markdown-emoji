@@ -8,3 +8,150 @@ Implemented in Javascript.
 Example of all available emojis [here](http://www.emoji-cheat-sheet.com/).
 
 Made by [fouad](http://fouad.co) with shameless self promotion :grin: :cinema:
+
+Awesome Courses
+=====
+
+> List of awesome Computer Science courses scoured from university pages across the web
+
+Table of Contents
+---
+
+- [Systems](#systems)
+- [Programming Languages / Compilers](#programming-languages--compilers)
+- [Algorithms](#algorithms)
+- [CS Theory](#cs-theory)
+- [Introduction to CS](#introduction-to-cs)
+- [Misc](#misc)
+
+Courses
+---
+
+### Systems
+
+- [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 
+  - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos.
+  - [Lectures](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)
+  - [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)
+- [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
+  - Learn how to write programs that take full advantage of operating system support in the C programming language 
+  - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
+- [CS 452](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Real-Time Programming** *University of Waterloo*
+  - Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
+  - [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
+  - [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
+- [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **Distributed Systems** *Carnegie-Mellon University*
+  - Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
+  - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
+- [6.824](http://css.csail.mit.edu/6.824/2014/index.html) **Distributed Systems** *MIT*
+  - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang! 
+  - [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
+  - [Lectures](http://css.csail.mit.edu/6.824/2014/schedule.html)
+- [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
+  - Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
+- [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
+  - A project focused course on Distributed Systems with an awesome list of readings
+  - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
+- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich*
+  - Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
+  - [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
+  - [Assignments and Solutions](http://dcg.ethz.ch/lectures/podc_allstars/)
+- [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University*
+  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+  - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
+- [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College*
+  -  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
+- [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College*
+  - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading. 
+- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College*
+  - The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
+- [CS 107](http://web.stanford.edu/class/cs107/index.html) **Computer Organization & Systems** *Stanford University*
+  - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. 
+  - [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
+  - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
+- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
+  - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
+  - [Lecture slides](http://patricklam.ca/p4p/notes/)
+
+-------
+
+### Programming Languages / Compilers
+- [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
+  - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
+  - [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
+  - [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
+- [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*
+  - Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
+  - [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
+  - [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
+- [CIS194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering*
+  - Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
+  - [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercices
+  - [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
+- [CS240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *Stanford University*
+  - Building software systems in Haskell
+  - [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
+  - 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
+- [CS164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley*
+  - Introduction to programming languages by designing and implementing domain-specific languages.
+  - [Lecture Videos](https://www.youtube.com/playlist?list=PL421867F00A53B833)
+  - [Code for Assignments](https://bitbucket.org/cs164_overlord/)
+- [CS3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **Data Structures and Functional Programming** *Cornell University*
+  - Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
+  - [Lecture Slides](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
+  - [Assignments](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
+- [CS173](http://cs.brown.edu/courses/cs173/2014/) **Programming Languages** *Brown University*
+  - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
+  - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
+  - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
+- [CS421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *Univ of Illinois, Urbana-Champaign*
+  - Course that uses OCaml to teach functional programming and programming language design.
+  - [Lectures](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)
+  - [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
+  - [Assignments](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
+  - [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
+- [CS5470](http://matt.might.net/teaching/compilers/spring-2015/) **Compilers** *University of Utah*
+  - If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
+  - [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
+  - [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
+- [CS4610](www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia*
+  - Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
+  - [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
+  - [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
+
+-------
+
+### Misc
+- [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
+  -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
+  - [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)
+- [15-781](http://www.cs.cmu.edu/~tom/10701_sp11/) **Machine Learning** *Carnegie Mellon University*
+  - Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
+  - [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+  - [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
+- [ESM 296-4F](http://ucsb-bren.github.io/esm296-4f/) **GIS & Spatial Analysis** *UC Santa Barbara*
+  - Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
+  - Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems
+  - [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)
+- [CSE154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington*
+  - This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
+  - [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
+  - [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
+- [IGME-582](http://hfoss-fossrit.rhcloud.com) **Humanitarian Free & Open Source Software Development** *Rochester Institute of Technology*
+  - This course provides students with exposure to the design, creation and production of Open Source Software projects. Students will be introduced to the historic intersections of technology and intellectual property rights and will become familiar with Open Source development processes, tools and practices. 
+- [IGME-585](http://advfoss-ritigm.rhcloud.com) **Advanced Project Based Free & Open Source Software Development** *Rochester Institute of Technology*
+  - A project based course where students develop 3 tightly scoped open source projects for the Raspberry Pi.
+- [CS223A](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743) **Introduction to Robotics** *Stanford University*
+  - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
+  - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+  - [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
+- [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania*
+  - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
+  - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
+  - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
+- [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan*
+  - Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
+  - This intensive research seminar covers foundational work and current topics in computer systems security.
+  - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
+
+-------
